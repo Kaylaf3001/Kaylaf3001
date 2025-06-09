@@ -1,5 +1,17 @@
-# 💫 About Me:
-# Hi there, I'm Kayla 👋<br><br>I'm a third-year university student at Varsity College, currently pursuing a degree in **Computer Science** with a focus on **Information Systems** and **Application Development**.<br><br>My passion lies in building impactful software solutions — from desktop applications with WPF, to Android mobile apps, and cloud-based projects on Microsoft Azure. I enjoy learning new technologies, collaborating on open-source projects, and continually expanding my skills in software development.<br><br>## What I’m working on<br>🖥️ WPF and desktop application projects  <br>📱 Android app development  <br>☁️ Cloud computing with Azure  <br>💻 Web development (ASP.NET, WordPress)
+# 💫 About Me
+
+Hi there, I'm Kayla 👋
+
+I'm a third-year university student at Varsity College, currently pursuing a degree in **Computer Science** with a focus on **Information Systems** and **Application Development**.
+
+My passion lies in building impactful software solutions — from desktop applications with WPF, to Android mobile apps, and cloud-based projects on Microsoft Azure. I enjoy learning new technologies, collaborating on open-source projects, and continually expanding my skills in software development.
+
+## What I’m working on
+
+🖥️ WPF and desktop application projects  
+📱 Android app development  
+☁️ Cloud computing with Azure  
+💻 Web development (ASP.NET, WordPress)
 
 
 ## 🌐 Socials:
