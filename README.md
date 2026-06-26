@@ -2,18 +2,30 @@
 
 Hi there, I'm Kayla 👋
 
-I'm a third-year university student at Varsity College, currently pursuing a degree in **Computer Science** with a focus on **Information Systems** and **Application Development**.
+I'm a **Junior Software Developer** from South Africa with a passion for building modern, user-focused applications and continually expanding my technical skills.
 
-My passion lies in building impactful software solutions — from desktop applications with WPF, to Android mobile apps, and cloud-based projects on Microsoft Azure. I enjoy learning new technologies, collaborating on open-source projects, and continually expanding my skills in software development.
+Over the past year, I've been working on real-world recruitment software projects, developing new features, fixing bugs, improving user interfaces, and collaborating on full-stack web applications. I enjoy solving problems, learning new technologies, and turning ideas into reliable software.
 
-## What I’m working on
+## 🚀 What I'm Working On
 
-🖥️ WPF and desktop application projects  
-📱 Android app development  
-☁️ Cloud computing with Azure  
-💻 Web development (ASP.NET, WordPress)
-🖥️ PHP projects
+💻 Full-stack web development with **PHP** and **Laravel**
+⚛️ Frontend development with **React**, **HTML**, **CSS**, **JavaScript**, and **Tailwind CSS**
+🗄️ Database design and management with **MySQL** and **PostgreSQL**
+🔧 Building and maintaining recruitment software and CRM platforms
+🎨 Creating responsive, user-friendly interfaces and improving user experience
+🌐 WordPress development and custom website solutions
+📚 Continuously learning new technologies and best practices in modern software development
 
+## 🛠️ Technologies & Tools
+
+* **Languages:** PHP, JavaScript, HTML, CSS, Java
+* **Frameworks:** Laravel, React, Tailwind CSS, ASP.NET
+* **Databases:** MySQL, PostgreSQL
+* **Tools:** Git, GitHub, VS Code, Laragon, pgAdmin, Postman
+* **CMS:** WordPress
+* **Cloud & Other:** Microsoft Azure
+
+I'm always looking for opportunities to learn, contribute to meaningful projects, and grow as a developer while building software that makes a real impact.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kayla_ferreira1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayla-ferreira-85b197292)
